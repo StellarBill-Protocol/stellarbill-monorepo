@@ -1,0 +1,9 @@
+{
+  "name": "backend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Use cargo build in contracts/'",
+    "dev": "echo 'Run: cargo build --target wasm32-unknown-unknown'"
+  }
+}
